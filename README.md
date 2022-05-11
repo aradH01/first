@@ -1,3 +1,3 @@
-#thid is heading
+# this is heading
 
 *this is italic*
